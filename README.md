@@ -1,3 +1,6 @@
 "# mergeSort" 
 "# mergeSort" 
-Algoritmo Basico Merge Sort
+Algoritmo Basico Merge Sor
+
+
+Haa almudi , jamais sebera !!!
